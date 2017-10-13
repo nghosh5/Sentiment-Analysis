@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 25 15:06:56 2017
 
-@author: Vineet
-"""
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
